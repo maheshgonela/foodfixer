@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605594637383",
+    "project_id": "food-fixer",
+    "storage_bucket": "food-fixer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605594637383:android:a484724fe9943d11780d62",
+        "android_client_info": {
+          "package_name": "in.easyCloud.foodfixer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUoyrbxRXudq0nT1BIJoIQmS_9PDPvd_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
